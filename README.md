@@ -5,6 +5,8 @@ Flutter App to manage and track expenses among friends.
 > [!IMPORTANT]
 > This app is currently under development and has initial version for now.
 
+
+
 ## Used Resources
 
 `Dart: Flutter Development`
@@ -26,6 +28,8 @@ Flutter App to manage and track expenses among friends.
 > Why Flutter ?
 >
 > Portability. One code for all platform apps like Android,iOS,MacOS,Windows,etc.
+
+
 
 
 ## Here are some glimps of SplitSnap
