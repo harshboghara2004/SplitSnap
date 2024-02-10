@@ -19,6 +19,8 @@ Flutter App to manage and track expenses among friends.
 
 - Fast and Easy way store/fetch data.
 
+`Check Others in pubspec.yaml file.`
+
 
 > [!Note]
 > Why Flutter ?
