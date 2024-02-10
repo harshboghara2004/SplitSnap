@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45344758842",
+    "project_id": "split-snap",
+    "storage_bucket": "split-snap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45344758842:android:a27cd21d85a9749dde2903",
+        "android_client_info": {
+          "package_name": "com.example.splitsnap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjzds-U7quQC6CwQjPBy_uWZUv5U1IsD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
