@@ -1,5 +1,4 @@
 # SplitSnap
-
 Flutter App to manage and track expenses among friends.
 
 > [!IMPORTANT]
