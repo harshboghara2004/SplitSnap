@@ -1,16 +1,21 @@
 # splitsnap
 
-A new Flutter project.
+Flutter App to manage and track expenses among friends.
 
-## Getting Started
+> [!IMPORTANT]
+> This app is currently under development and has initial version for now.
 
-This project is a starting point for a Flutter application.
+## Used Resources
 
-A few resources to get you started if this is your first Flutter project:
+`Dart: Flutter Development`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Language collection of widgets that combines and make awesome apps.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`Firebase FireStore`
+
+- Data Storage service provided by google.
+
+- Store data as collection of documents.
+
+
+  
